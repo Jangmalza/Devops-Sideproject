@@ -1,2 +1,1 @@
-# Devops-Cronproject
-Devops Side Project
+# Devops-Sideproject
